@@ -1,0 +1,14 @@
+
+.home-page {
+    text-align: center;
+}
+
+
+.home-page__post {
+    padding: 10px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}

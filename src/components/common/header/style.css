@@ -1,0 +1,27 @@
+.header {
+    background-color: gray;
+}
+
+.header ul {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.header ul li a {
+    color: #fff;
+    padding: 25px 15px;
+    display: block;
+    text-decoration: none;
+}
+
+.user-name {
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    height: 100%;
+}
